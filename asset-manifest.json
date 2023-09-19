@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecart-React-App/static/css/main.87a9ad08.css",
+    "main.js": "/Ecart-React-App/static/js/main.b34305cf.js",
+    "index.html": "/Ecart-React-App/index.html",
+    "main.87a9ad08.css.map": "/Ecart-React-App/static/css/main.87a9ad08.css.map",
+    "main.b34305cf.js.map": "/Ecart-React-App/static/js/main.b34305cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a9ad08.css",
+    "static/js/main.b34305cf.js"
+  ]
+}
